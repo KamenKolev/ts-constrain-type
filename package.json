@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "latest"
+  },
+  "repository": {
+    "url": "https://github.com/KamenKolev/ts-constrain-type"
   }
 }
