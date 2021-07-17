@@ -1,0 +1,20 @@
+{
+  "name": "ts-constrain-type",
+  "version": "1.0.0",
+  "description": "A generic constrained identity function",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Typescript",
+    "Constrain",
+    "Constraint",
+    "Identity Function"
+  ],
+  "author": "Kamen Kolev",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
